@@ -1,4 +1,4 @@
-public class snv1
+public class snv
 {
 	public static void main(String[] args)
 	{
